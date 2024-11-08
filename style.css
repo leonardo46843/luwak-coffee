@@ -92,7 +92,7 @@ nav ul li a:hover::after {
 }
 
 .extra a {
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: 600;
     color: #ffffff;
     transition: .2s;
